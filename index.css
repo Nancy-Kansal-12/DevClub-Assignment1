@@ -1,0 +1,199 @@
+#homeArea{
+    width:100%;
+    height:95%;
+}
+#home{
+    font-size:40px;
+    padding: 70px;
+    float:left;
+    width:50%;
+    height:78.77%;
+    line-break: loose;
+    font-family: "Fredericka the Great";
+}
+#homeImage{
+    float: left;
+    height: 100%;
+    width:40%;
+    background-image: url(images/coronavirus-cartoon.png);
+    background-size: 80%;
+    background-repeat: no-repeat;
+    background-position:56px 239px ;
+}
+#navbar{
+    font-size: 38px;
+    padding:1%;
+    border-style: none none double none;
+    background-image:url(images/bg2.jpg);
+    background-size: cover;
+    text-align: right;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    position: sticky;
+    top: 0%;
+    width: 98%;
+}
+body{
+    background-image: url(images/bg1.jpeg);
+    background-size: cover;
+    margin:0.1%;
+    text-shadow: 1px 1px 1px;
+}
+#Tips{
+    padding:1%;
+    padding-top: 2%;
+}
+#head1{
+    font-size: 100px;
+    text-align: center;
+    color: ffeb3b;
+    text-shadow: 4px 1px 2px black;
+}
+.tipsPoints{
+    outline:black solid 2px;
+    border-radius: 5px;
+    padding: 60px;
+    padding-left: 120px;
+    padding-right: 120px;
+    background-color: rgb(245, 255, 255);
+    font-size: 60px;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    color: rgb(76,0,39);
+    text-shadow: 1px 2px 3px rgb(232,175,206);
+    box-shadow: 0px 0px 14px black;
+}
+#wm{
+    text-align:left;
+    background-image: url(images/Wear\ Mask.PNG),url(images/tipsbg1.jpg);
+    background-size: 18%,100%;
+    background-repeat: no-repeat;
+    background-position: 749px -9px, -2px -426px;
+}
+#wh{
+    text-align:right;
+    background-image: url(images/Wash\ Hands.PNG),url(images/tipsbg2.jpg);
+    background-size: 18%,100%;
+    background-repeat: no-repeat;
+    background-position:135px -10px,  0px -41px ;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+#dw{
+    font-size: 100px;
+    color:#21f895;
+    text-shadow: 2px 2px 1px darkgreen;
+    font-family: auto;
+}
+marquee{
+    font-size: 20px;
+    background-color: rgb(255, 255, 255, 0.5);
+    font-weight: 200;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position: fixed;
+    text-shadow: none !important;
+}
+#head2{
+    text-align: center;
+    color:ffeb3b;
+    text-shadow: 4px 1px 2px black;
+}
+#Symptoms{
+    font-size: 42px;
+    padding:3%;
+}
+table{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    border: 4px solid black;
+    border-collapse: collapse;
+    width:65%;
+    height: 55%;
+    font-size: 30px;
+    background-color: azure;
+    font-family:"Rancho";
+    box-shadow: 0px 0px 123px white;
+}
+th{
+    background-color: lightseagreen;
+    border:4px solid black;
+    font-family:"Fredericka the Great";
+    
+}
+th, td{
+    padding: 22px;
+}
+tr:hover{
+    background-color: rgb(32, 178, 170,0.3);
+}
+td{
+    border:3px solid black;
+    text-shadow: 1px 1px 1px lightgreen;
+    
+}
+#FAQs{
+    font-size: 42px;
+    padding:1%;
+}
+.FAQques{
+    font-size: 40px;
+    font-family:apple-system,  BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color: rgb(255, 255, 255,0.8);
+    padding: 1.5%;
+    border-radius: 50px;
+}
+#head3{
+    text-align: center;
+    color: ffeb3b;
+    text-shadow: 4px 1px 2px black;
+}
+details{
+    padding:2%;
+}
+.ans{
+    font-size: 25px;
+    background-color: rgb(255, 255, 255,0.25);
+    padding: 3%;
+    border-radius: 90px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify;
+    
+}
+#youtube{
+    font-size: 42px;
+    padding:1%;
+    text-align: center;
+    color: ffeb3b;
+    text-shadow: 4px 1px 2px black;
+}
+
+footer{
+        background-image: url(images/gradient_bg.png);
+        text-align: center;
+        padding: 20px;
+        padding-left: 167px;
+        padding-bottom: 32px;
+        font-size: 20px;
+        font-family: "Gugi";
+        text-shadow: none;
+}
+#line1{
+    color:rgb(255, 224, 75);
+    text-shadow: 1px 1px 1px;
+}
+  #githubLogo{
+    width: 34;
+    float: right;
+    padding-right: 22px;
+    padding-top: -132px;
+    margin-top: -6px;
+  }
+  #gmailIcon{
+    width: 94;
+    float: right;
+    margin-top: -37px;
+  }
